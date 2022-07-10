@@ -12,3 +12,5 @@ print("hello world")
 扩展Paste image  ctrl alt v 粘贴图片
 扩展Draw.io 流程图，尾号.dio
 ![](图片/2022-07-10-16-16-54.png)
+
+同步了github
