@@ -25,7 +25,8 @@ print(y[1:4])
 y.append("尾部增加元素")
 y[2]=33333 #修改元素值
 y.insert(0,555) #指定位置插入元素
-y.pop(4)
+y.pop(4) #pop()默认最后一个元素
+#del company_list[0] 删除表第一个元素
 #y.extend(y2) 双表连接
 #y.clear() 删除全部元素
 y2.pop
