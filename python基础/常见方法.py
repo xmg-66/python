@@ -25,3 +25,10 @@ len()   #数据长度
 print()
 input()
 exit()  #退出
+
+
+list=[1,2,3]
+try:
+    print(list[4])
+except:
+    print("出错了")

@@ -105,7 +105,6 @@
 #     my_list.append(k)
 # print(my_list)
 
-operators_dict={'<':'less than','==':'equal'}
-print("Here is the original dict")
-# for key in operators_dict:
-print(operators_dict.values())
+
+
+
