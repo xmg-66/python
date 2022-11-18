@@ -221,8 +221,16 @@
 # else:
 #     print(f'The {kind_of_drink} has been sold out!')
 
+# #九九乘法表
+# for i in range(1,10):
+#     for j in range(1,i+1):
+#         print(f"{i}*{j}={i*j}",end=" ")
+#     print()
 
+def cn(a,b,c):
+    return a*b*c
 
+print (cn(1,3,4))
 
 
         
