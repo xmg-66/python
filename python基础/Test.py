@@ -227,10 +227,10 @@
 #         print(f"{i}*{j}={i*j}",end=" ")
 #     print()
 
-def cn(a,b,c):
-    return a*b*c
+# def cn(a,b,c):
+#     return a*b*c
 
-print (cn(1,3,4))
+# print (cn(1,3,4))
 
 
         
